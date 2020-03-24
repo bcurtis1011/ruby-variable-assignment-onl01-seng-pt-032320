@@ -1,4 +1,5 @@
+local_variables 'greeting'
+
 def greeting
-  puts "Helllo World"
-  greeting = "Hello World"
+  puts "Hello World"
 end
